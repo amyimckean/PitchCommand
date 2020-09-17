@@ -1,4 +1,5 @@
-#Command Assignment Assignment #3 - Object Oriented Design
+# Command Pattern
+Assignment #3 - Object Oriented Design
 
 Usage
 ----------------
