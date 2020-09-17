@@ -7,6 +7,7 @@ This project creates the tools to create a catcher control that controls throwin
 
 Requirements 
 ----------------
-Uses libraries: junit-4.13.jarhamcrest-core-1.3.jar
+junit-4.13.jar
+hamcrest-core-1.3.jar
 
 *These are included in and referenced from a folder within the repository called RequiredPlugins.
